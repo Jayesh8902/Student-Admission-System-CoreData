@@ -1,1 +1,16 @@
-# Student-Admission-System-CoreData
+# Student-Admission-System-CoreData![Screenshot 2021-12-22 at 4 51 20 PM](https://user-images.githubusercontent.com/89826151/147085720-1dee1530-4c5c-4395-afab-9fe89362a653.png)
+![Screenshot 2021-12-22 at 4 51 41 PM](https://user-images.githubusercontent.com/89826151/147085729-c843d335-6228-4735-8c42-9d59f011e6b9.png)
+![Screenshot 2021-12-22 at 4 51 55 PM](https://user-images.githubusercontent.com/89826151/147085737-31b92ccc-475c-4613-9e42-8c600eda1333.png)
+![Screenshot 2021-12-22 at 4 52 05 PM](https://user-images.githubusercontent.com/89826151/147085743-d91298fa-00d5-4332-b4e7-f79b3552cb97.png)
+![Screenshot 2021-12-22 at 4 52 18 PM](https://user-images.githubusercontent.com/89826151/147085751-f386135b-82cc-47c4-9c1d-990b9952d42a.png)
+![Screenshot 2021-12-22 at 4 52 27 PM](https://user-images.githubusercontent.com/89826151/147085761-41579980-b3fc-4a83-a4f1-602aa2f9463a.png)
+![Screenshot 2021-12-22 at 4 52 38 PM](https://user-images.githubusercontent.com/89826151/147085765-5c04f302-dc0a-4e6c-b0f8-2c4b0b31d4cb.png)
+![Screenshot 2021-12-22 at 4 52 52 PM](https://user-images.githubusercontent.com/89826151/147085768-1e296b05-2a51-4009-a42b-d346a2b0efd5.png)
+![Screenshot 2021-12-22 at 4 52 45 PM](https://user-images.githubusercontent.com/89826151/147085772-38472b69-7a31-4c77-8c5e-def5a9a2f887.png)
+![Screenshot 2021-12-22 at 4 53 02 PM](https://user-images.githubusercontent.com/89826151/147085777-84187bef-c5bd-4390-ae10-9fb3381e1000.png)
+![Screenshot 2021-12-22 at 4 53 15 PM](https://user-images.githubusercontent.com/89826151/147085783-32d76aa3-c1c9-4b9b-aeb5-68cded82e13d.png)
+![Screenshot 2021-12-22 at 4 53 26 PM](https://user-images.githubusercontent.com/89826151/147085786-e4cbcaa0-09eb-4443-8660-52d306c162ec.png)
+![Screenshot 2021-12-22 at 4 53 51 PM](https://user-images.githubusercontent.com/89826151/147085792-d2f5b6bf-9598-47e8-bdcf-03b995ada![Screenshot 2021-12-22 at 4 53 57 PM](https://user-images.githubusercontent.com/89826151/147085799-2b50669d-5ec2-40a4-968b-6cf93ed4693![Screenshot 2021-12-22 at 4 54 05 PM](https://user-images.githubusercontent.com/89826151/147085804-9e51a17a-fbf8-45b6-9d17-1b6e0589e71e.png)b.png)58b.png)
+![Screenshot 2021-12-22 at 4 55 18 PM](https://user-images.githubusercontent.com/89826151/147085849-7c270b02-0810-402c-a748-30622c![Screenshot 2021-12-22 at 4 54 24 PM](https://user-images.githubusercontent.com/89826151/147085857-067a229f-315b-4855-994d-fb540f68af7a.png)
+216331.png)
+
